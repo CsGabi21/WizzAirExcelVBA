@@ -9,4 +9,4 @@ Instruction:
   You hold that destination which one interested you.
   
 If you run the macro for all place with three month range, it will be very slow. It will about an hour.
-Of course the process will be faster that if you decrease the month range and the destinations rows.
+Of course the process will be faster that if you decrease the month range and destinations rows.
