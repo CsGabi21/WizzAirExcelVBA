@@ -4,7 +4,7 @@ Attribute WizzAir.VB_ProcData.VB_Invoke_Func = " \n14"
     
     Dim objHTTP As New MSXML2.XMLHTTP60
 
-    URL = "https://be.wizzair.com/3.4.0/Api/search/search"
+    URL = "https://be.wizzair.com/3.5.0/Api/search/search"
     Dim huf As Double
     Dim moneyCode As String
     
